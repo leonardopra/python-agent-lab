@@ -1,0 +1,11 @@
+NeuroBot è un agente AI sviluppato per automatizzare risposte a domande frequenti.
+Usa il modello claude-sonnet-4-6 di Anthropic.
+È scritto in Python e usa LangChain come libreria principale.
+La memoria è salvata in formato JSON su file locale.
+NeuroBot supporta due tool: calculator e search_notes.
+Il progetto è stato avviato a marzo 2026.
+Il progetto è stato avviato a marzo 2026 da Leonardo.
+Il vector store usato è ChromaDB con embeddings all-MiniLM-L6-v2.
+Il chunking attuale divide il testo per righe.
+Il limite attuale è che il RAG non ha memoria della conversazione.
+LangChain è usato come libreria principale per interfacciarsi con il LLM.

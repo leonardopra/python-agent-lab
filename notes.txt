@@ -1,0 +1,4 @@
+Il mio progetto si chiama AI Learning Week.
+Sto imparando a costruire agenti LLM con Python.
+Il modello che uso è claude-sonnet-4-6.
+LangChain è una libreria per lavorare con LLM.

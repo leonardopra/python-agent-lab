@@ -1,0 +1,20 @@
+NovaTech - Problemi noti e limitazioni
+
+LIMITAZIONI ATTUALI
+- La stima automatica dei tempi richiede almeno 20 task storici
+  per dare risultati affidabili
+- La trascrizione delle riunioni non funziona bene con accenti forti
+- Il piano Free non include export dei dati
+- Le notifiche push su mobile non sono ancora disponibili
+
+BUG NOTI
+- In alcuni browser la dashboard non carica correttamente
+  con zoom superiore al 150%
+- L'integrazione GitHub a volte non sincronizza i commit
+  se il repo ha più di 10.000 file
+- Il riassunto AI delle riunioni può impiegare fino a 5 minuti
+  per riunioni superiori a 2 ore
+
+WORKAROUND
+- Per il bug GitHub: dividere il repo in sotto-moduli
+- Per il bug dashboard: usare zoom al 100%

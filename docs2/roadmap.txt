@@ -1,0 +1,36 @@
+NovaTech - Roadmap 2025-2026
+
+Q1 2025 - COMPLETATO
+- Lancio versione beta con 50 team selezionati
+- Integrazione GitHub rilasciata
+- Sistema di stima tempi v1 in produzione
+
+Q2 2025 - COMPLETATO
+- Lancio pubblico piano Free e Pro
+- Integrazione Slack rilasciata
+- Raggiunto traguardo 500 team attivi
+
+Q3 2025 - COMPLETATO
+- Integrazione Jira rilasciata
+- Dashboard analytics avanzata in produzione
+- Funzionalità di riassunto riunioni lanciata
+
+Q4 2025 - COMPLETATO
+- Lancio piano Enterprise
+- API pubblica per integrazioni custom
+- App mobile iOS e Android in beta
+
+Q1 2026 - IN CORSO
+- Espansione mercato USA e UK in fase di lancio
+- Modello AI proprietario per stime tempi v2 in sviluppo
+- Funzionalità di previsione rischi di progetto in beta
+
+Q2 2026 - PIANIFICATO
+- Lancio ufficiale app mobile iOS e Android
+- Integrazione con Microsoft Teams
+- Dashboard multilingua avanzata
+
+2026 - VISIONE
+- Modello AI completamente proprietario
+- Espansione mercato Asia-Pacifico
+- Funzionalità di previsione budget progetti

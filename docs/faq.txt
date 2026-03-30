@@ -1,0 +1,8 @@
+Come funziona NeuroBot? NeuroBot riceve una domanda, la elabora con un LLM e risponde.
+Quali tool supporta NeuroBot? Supporta calculator per i calcoli e search_notes per cercare nelle note.
+NeuroBot ha memoria? Sì, salva la conversazione in un file memory.json.
+Quanto costa usare NeuroBot? Dipende dai costi API di Anthropic.
+Chi ha sviluppato NeuroBot? È stato sviluppato come progetto di apprendimento AI.
+Il RAG fallisce quando le domande sono troppo generiche.
+Il RAG fallisce quando le informazioni sono sparse su più chunk.
+ChromaDB restituisce sempre n chunk anche se non rilevanti.
